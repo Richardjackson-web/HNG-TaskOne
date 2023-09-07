@@ -24,7 +24,11 @@ div{
 h2{
     font-family: 'Poppins', sans-serif;
 }
-span, p{
+span, p, a{
     font-family: 'Roboto Slab', serif;
     font-weight: 500;
+}
+a{
+    color: #000;
+
 }
